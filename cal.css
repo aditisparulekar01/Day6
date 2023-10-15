@@ -1,0 +1,22 @@
+button{
+    background-color: palevioletred;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+#n1{
+    background-color: blue;
+    margin-right: auto;
+    margin-left: auto;
+}
+#n2{
+    background-color: aqua;
+    
+}
+body{
+   text-align: center;
+    background-color: brown;
+}
+h3{
+    color: beige;
+}
